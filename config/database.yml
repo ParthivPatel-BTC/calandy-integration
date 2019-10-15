@@ -1,0 +1,9 @@
+# For development environment
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: calendly
+  host: localhost
+  pool: 5
+  username: postgres
+  password: postgres
